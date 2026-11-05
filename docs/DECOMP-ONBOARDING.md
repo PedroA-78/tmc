@@ -257,7 +257,7 @@ preprocesses `linker.ld`, compiles `src/**.c` with agbcc, assembles
 `asm/**.s` + `data/**.s`, links via `linker.ld`, and `objcopy`s to `.gba`.
 
 A ROM is required at the repo root for asset extraction / full runtime (USA
-`baserom.gba`, SHA1 `b4bd50e4131b027c334547b4524e2dbbd4227130`; see
+`baserom.gba`, SHA1 `6838e0405c1be5d867d84e019d1f131a366b07ad`; see
 `CONTRIBUTING.md`).
 
 ---

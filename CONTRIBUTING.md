@@ -15,7 +15,7 @@ assembly byte-for-byte), that work belongs upstream at zeldaret/tmc — see
 - Read the [README](README.md) for the build (`python3 build.py`, or the faster
   `xmake` dev cycle) and [INSTALL.md](INSTALL.md) for build options.
 - You need your own ROM at the repo root — it is **not** shipped. USA
-  `baserom.gba`, SHA1 `b4bd50e4131b027c334547b4524e2dbbd4227130`.
+  `baserom.gba`, SHA1 `6838e0405c1be5d867d84e019d1f131a366b07ad`.
 - There is **no automated test suite.** Verification is interactive play, the
   **F8** warp/debug menu, capturing repros with **F9**, and comparing against
   GBA reference behaviour.

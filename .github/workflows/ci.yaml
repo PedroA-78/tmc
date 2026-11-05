@@ -107,7 +107,7 @@ jobs:
           rom="$RUNNER_TEMP/baserom_usa.gba"
           curl -fsSL --retry 3 -o "$rom" "$BASEROM_USA_URL"
           # Retail "Legend of Zelda, The - The Minish Cap (USA)" SHA-1.
-          echo "b4bd50e4131b027c334547b4524e2dbbd4227130  $rom" | sha1sum -c -
+          echo "6838e0405c1be5d867d84e019d1f131a366b07ad  $rom" | sha1sum -c -
           echo "TMC_BASEROM=$rom" >> "$GITHUB_ENV"
           echo "have_rom=true" >> "$GITHUB_OUTPUT"
 

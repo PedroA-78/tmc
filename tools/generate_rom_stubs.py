@@ -22,7 +22,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "port" / "port_rom_stubs.c"
 INDEX = ROOT / "port" / "port_asset_index.c"
-USA_SHA1 = "b4bd50e4131b027c334547b4524e2dbbd4227130"
+USA_SHA1 = "6838e0405c1be5d867d84e019d1f131a366b07ad"
 # Non-address differences above this many bytes are left region-native.
 SMALL_DIFF_LIMIT = 64
 # Extra ROM tables consumed through their own buffers (USA offset, size).

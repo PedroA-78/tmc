@@ -323,7 +323,7 @@ static const struct {
     const char* sha256; /* "" = not yet known (demo dumps): SHA-1 only */
     const char* region;
 } kKnownTmcRoms[] = {
-    { "b4bd50e4131b027c334547b4524e2dbbd4227130", "bedc74df62755f705398273de8ed3bc59be610cf55760d0b9aa277f1f5035e73",
+    { "6838e0405c1be5d867d84e019d1f131a366b07ad", "bedc74df62755f705398273de8ed3bc59be610cf55760d0b9aa277f1f5035e73",
       "USA" },
     { "cff199b36ff173fb6faf152653d1bccf87c26fb7", "c84645731952b7677f514ae222683504066334ab2af904e64a8a84ffc1af46c6",
       "EU" },
@@ -495,7 +495,7 @@ int Port_RomPicker_PromptAndInstall(void) {
                  "  Path:     %s\n"
                  "  SHA-1:    %s\n\n"
                  "Accepted hashes:\n"
-                 "  USA      b4bd50e4131b027c334547b4524e2dbbd4227130\n"
+                 "  USA      6838e0405c1be5d867d84e019d1f131a366b07ad\n"
                  "  EU       cff199b36ff173fb6faf152653d1bccf87c26fb7\n"
                  "  JP       6c5404a1effb17f481f352181d0f1c61a2765c5d\n"
                  "  USA Demo 63fcad218f9047b6a9edbb68c98bd0dec322d7a1\n"

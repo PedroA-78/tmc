@@ -17,7 +17,7 @@ A copy of the original game is required. This repository does **not** ship ROMs.
 
 | Version | Filename         | SHA1                                       |
 |---------|------------------|--------------------------------------------|
-| USA     | `baserom.gba`    | `b4bd50e4131b027c334547b4524e2dbbd4227130` |
+| USA     | `baserom.gba`    | `6838e0405c1be5d867d84e019d1f131a366b07ad` |
 | EU      | `baserom_eu.gba` | `cff199b36ff173fb6faf152653d1bccf87c26fb7` |
 | JP      | `baserom_jp.gba` | `6c5404a1effb17f481f352181d0f1c61a2765c5d` |
 
